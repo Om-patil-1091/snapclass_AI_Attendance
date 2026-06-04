@@ -275,18 +275,6 @@ SUPABASE_KEY="YOUR_SUPABASE_KEY"
 * Premium Typography
 
 ---
-
-## 📈 Future Roadmap
-
-* Email Notifications
-* Attendance Export (Excel/PDF)
-* Real-Time Classroom Monitoring
-* Mobile Application
-* Multi-Institution Support
-* Advanced Analytics Dashboard
-
----
-
 ## 👨‍💻 Developer
 
 ### Om Patil
